@@ -2,7 +2,7 @@
 
 User can login and Register and then Json data will be fetched from JSON file
 
-1. Login and Regsiter (SQlite database)
+1. Login and Register (SQlite database)
 2. Volley Library (To fetch json data)
 3. Glide (to load images from url in imageview)
 4. Data is fetched in recycler view
