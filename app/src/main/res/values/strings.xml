@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cubereum</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="advertisement">%1$s \n\n %2$s \n\n Click to Open</string>
+    <string name="enter_your_e_mail_and_password_to_login_your_account">Enter your E-mail and Password to Login your account</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_n_register_now">Don\'t Have an Account?\n Register now</string>
+    <string name="welcome_to_cubereum">Welcome to Cubereum</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number_10_digits">Phone Number (10 digits)</string>
+    <string name="address">Address</string>
+    <string name="email_address">Email Address</string>
+    <string name="password_minimum_6_characters">Password (minimum 6 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_n_login_now">Already Have an Account?\n Login now</string>
+
+</resources>

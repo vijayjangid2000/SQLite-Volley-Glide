@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="shapeButton">#2a6178</color>
+    <color name="toolbarColor">#002333</color>
+    <color name="backgroundO">#023d57</color>
+    <color name="navigation">#2a6178</color> <!--#2a6178, #365765-->
+    <color name="lightblueColor">#8ED5F4</color>
+    <color name="whiteTextColor">#E1D9D9</color>
+</resources>
